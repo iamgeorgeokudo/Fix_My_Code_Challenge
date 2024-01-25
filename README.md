@@ -1,6 +1,5 @@
-# Fix_My_Code_Challenge
-
- Fix my code is a new type of project, where we'll jump into an existing code 
+# Fix My Code Challenge
+  Fix my code is a new type of project, where we'll jump into an existing code 
 base and fix it! This is done using pre-written repos as initial files for all 
 solutions. I'm not coding anything new, just fixing the existing code base.
 
@@ -12,7 +11,7 @@ with, others of which I was not. The specific list of projects contained follows
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* <[George Okudo](https://github.com/iamgeorgeokudo)>
+* **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
 
 ## Acknowledgements :pray:
 
